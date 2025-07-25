@@ -4,8 +4,7 @@ This project contains scripts to check and manage user account lockouts.
 
 ## 🔐 Windows (PowerShell)
 - Checks if a user account is locked out in Active Directory
-- Shows last failed login and lockout status
-
+- Sends email with Report of locked out accounts
 ## 🐧 Linux (Bash)
 - Uses `faillock` to view failed login attempts and reset lockouts
 
