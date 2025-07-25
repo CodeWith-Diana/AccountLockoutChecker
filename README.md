@@ -1,8 +1,10 @@
-# Account Lockout Checker
+# PROJECT 1 : Account Lockout Checker
+
+#Description
 
 This project contains scripts to check and manage user account lockouts.
 
-## 🔐 Windows (PowerShell)
+## 🔐 Windows (PowerShell) //Instructions
 - Checks if a user account is locked out in Active Directory
 - Sends email with Report of locked out accounts
 ## 🐧 Linux (Bash)
