@@ -1,6 +1,6 @@
 # PROJECT 1 : Account Lockout Checker
 
-#Description
+Description
 
 This project contains scripts to check and manage user account lockouts.
 
